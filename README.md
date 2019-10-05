@@ -1,0 +1,2 @@
+# GeneratingFashionDesigns
+MMWML HW6
